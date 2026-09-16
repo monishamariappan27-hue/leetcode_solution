@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0326-power-of-three) |
 | [2469-convert-the-temperature](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/2469-convert-the-temperature) |
 ## Memoization
 |  |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0037-sudoku-solver) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
