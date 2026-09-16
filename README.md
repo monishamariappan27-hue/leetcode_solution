@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2469-convert-the-temperature](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/2469-convert-the-temperature) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/2806-account-balance-after-rounded-purchase) |
 ## Memoization
 |  |
 | ------- |
