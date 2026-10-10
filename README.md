@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0171-excel-sheet-column-number](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0415-add-strings](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0709-to-lower-case) |
 | [1143-longest-common-subsequence](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/1143-longest-common-subsequence) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0415-add-strings) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2119-a-number-after-a-double-reversal](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0415-add-strings) |
 | [2169-count-operations-to-obtain-zero](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Number Theory
