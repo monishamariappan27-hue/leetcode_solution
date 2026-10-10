@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0367-valid-perfect-square) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2119-a-number-after-a-double-reversal](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
