@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0039-combination-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0027-remove-element) |
 | [0295-find-median-from-data-stream](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
