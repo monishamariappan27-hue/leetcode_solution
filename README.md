@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0171-excel-sheet-column-number](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0520-detect-capital](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/0709-to-lower-case) |
 | [1143-longest-common-subsequence](https://github.com/monishamariappan27-hue/leetcode_solution/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
